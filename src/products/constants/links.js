@@ -1,0 +1,1 @@
+export const PLACEHOLDER_IMAGE_URL = "https://placekitten.com/300/300";
